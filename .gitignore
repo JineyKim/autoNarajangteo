@@ -306,3 +306,6 @@ tb2.csv
 tb3.csv
 *.hwp
 *.hwpx
+.idea/.name
+.idea/autoNarajangteo-main.iml
+*.xml
